@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Balaji Banner" width="100%">
+  <img src="./banner.png" alt="Balaji Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Balaji</h1>
