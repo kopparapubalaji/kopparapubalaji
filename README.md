@@ -48,7 +48,6 @@
 
 - 📌 FlowDesk – Full Stack Task Management Portal
 - 📌 Student Job Portal
-- 📌 Smart Meal Planner (IoT + AI)
 - 📌 Java Placement Programs
 
 ---
