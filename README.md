@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Balaji
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Balaji;Full+Stack+Java+Developer;AI+%26+ML+Student;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 🎓 Final Year B.Tech CSE (AI & ML) Student from India
 
 💻 Passionate Full Stack Java Developer
@@ -54,9 +54,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kopparapubalaji&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kopparapubalaji&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kopparapubalaji&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kopparapubalaji&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
