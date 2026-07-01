@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./banner.png" alt="Balaji Banner" width="100%">
+  <img src="./banner.png" width="100%" alt="Balaji Banner">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;AI+%26+ML+Student;Spring+Boot+%7C+React+Developer;Open+to+Internships" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Balaji</h1>
@@ -69,7 +73,9 @@ Full Stack Java Developer • AI & ML Student • India 🇮🇳
 
 # 📈 GitHub Activity
 
-> 🔥 Daily commits and continuous learning. Check my contribution graph on my GitHub profile.
+> ## 📈 GitHub Activity
+
+📌 I maintain my projects regularly and continuously improve my skills through hands-on development and coding practice.
 
 ---
 
