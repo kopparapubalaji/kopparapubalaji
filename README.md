@@ -83,15 +83,6 @@ Collection of Java coding questions and DSA solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kopparapubalaji&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopparapubalaji&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -103,12 +94,6 @@ Collection of Java coding questions and DSA solutions.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kopparapubalaji&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
----
 
 # 🌐 Connect With Me
 
